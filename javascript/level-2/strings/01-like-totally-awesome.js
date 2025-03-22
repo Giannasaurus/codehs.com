@@ -18,7 +18,7 @@ function like(phrase){
     };
 }
 
-/* an even simpler solution --chatgpt
+/* ternary version
 function like(phrase) {
     return phrase.startsWith("like") ? phrase : "like "+phrase
 } */
