@@ -5,7 +5,6 @@
 
 function splitGroups(people, groups) {
     groups = people/groups
-    
     return Math.floor(groups)
 }
 
