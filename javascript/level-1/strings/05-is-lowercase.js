@@ -1,4 +1,5 @@
-/** Write a function that takes in a word or phrase. Return true if that word or phrase is all lowercase, otherwise return false.
+/** Write a function that takes in a word or phrase.
+    Return true if that word or phrase is all lowercase, otherwise return false.
   
   * Example:
     > isLowercase("CodeHS") --> false
