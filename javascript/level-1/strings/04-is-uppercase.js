@@ -1,4 +1,5 @@
-/** Write a function that takes in a word or phrase. Return true if that word or phrase is all uppercase, otherwise return false.
+/** Write a function that takes in a word or phrase.
+    Return true if that word or phrase is all uppercase, otherwise return false.
 
   * Example:
     > isUppercase("CodeHS") --> false
