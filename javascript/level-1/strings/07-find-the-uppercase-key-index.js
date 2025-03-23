@@ -1,4 +1,6 @@
-/** In this exercise, you are given an input string and a key. The key will be lowercase, but you need to return the index value where that key is found as an uppercase value. If it is not found, return -1.
+/** In this exercise, you are given an input string and a key.
+    The key will be lowercase, but you need to return the index value where that key is found as an uppercase value.
+    If it is not found, return -1.
 
   * Example:
     > findUpperKey("CODE word", "code") --> 0
