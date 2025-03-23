@@ -1,5 +1,5 @@
 /** Write a function that takes in a string and returns a string that triples the original.
-The returned string should include the contents of the original string three times, with a space in between.
+    The returned string should include the contents of the original string three times, with a space in between.
 
   * Example:
     > repeatThree("Hello World") --> "Hello World Hello World Hello World"
