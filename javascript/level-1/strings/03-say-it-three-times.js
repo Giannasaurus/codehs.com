@@ -8,6 +8,16 @@ function repeatThree(phrase){
     return phrase + " " + phrase + " " + phrase
 }
 
+/* using repeat()
+   function repeatThree(phrase) {
+    return (phrase + " ").repeat(3).trim();
+}
+
+   using Array.join()
+   function repeatThree(phrase) {
+    return Array(3).fill(phrase).join(' ');
+} */
+
 /** passed test cases
   * test case 1:
     > repeatThree("Hello World")
