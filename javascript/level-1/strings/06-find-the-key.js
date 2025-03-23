@@ -1,4 +1,6 @@
-/** Write a function that takes a string and a key as input. You should return true if the key exists in the index, false otherwise. Assume both the string and key have a length > 0.
+/** Write a function that takes a string and a key as input.
+    You should return true if the key exists in the index, false otherwise.
+    Assume both the string and key have a length > 0.
 
   * Example:
     > findKey("Hello Word", "l") --> true
