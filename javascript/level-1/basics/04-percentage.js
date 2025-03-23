@@ -2,7 +2,6 @@
 
 function percentageOfNumber(number, percentage){
   var num = number*(percentage/100)
-  
   return num
 }
 
