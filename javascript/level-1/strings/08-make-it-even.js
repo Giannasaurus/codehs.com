@@ -1,4 +1,6 @@
-/** In this exercise, you are given a word or phrase. If the length of that word or phrase is odd, add a space to the end and return it. If it is even, just return it as is.
+/** In this exercise, you are given a word or phrase.
+    If the length of that word or phrase is odd, add a space to the end and return it.
+    If it is even, just return it as is.
   
   * Example:
     > makeEven("Hi") --> "Hi"
