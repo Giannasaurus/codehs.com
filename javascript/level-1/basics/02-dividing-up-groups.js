@@ -9,8 +9,8 @@ function splitGroups(people, groups) {
 
 /* an alternate solution
     function splitGroups(people, groups) {
-    let groupSize = people / groups;  // Store the division result in a new variable
-    return Math.floor(groupSize);     // Use Math.floor() to round down
+    let groupSize = people / groups;
+    return Math.floor(groupSize);
 } */
 
 /** passed test cases
