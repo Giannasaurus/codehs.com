@@ -1,4 +1,5 @@
-/** Write a function that takes in a string and returns that same string with an “echo”. The returned string should include the contents of the original string twice, with a space in between.
+/** Write a function that takes in a string and returns that same string with an “echo”.
+    The returned string should include the contents of the original string twice, with a space in between.
 
   * Example:
     > echo("Hello World") --> "Hello World Hello World"
