@@ -1,4 +1,5 @@
-/** Write a function that receives two arguments, a and b. Return the second argument. */
+/** Write a function that receives two arguments, a and b.
+    Return the second argument. */
 
 function twoArgs(a, b) {
     return b
