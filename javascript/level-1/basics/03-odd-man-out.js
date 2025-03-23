@@ -4,7 +4,6 @@ Return the number of people that are left over after creating the even groups. *
 
 function leftOver(people, groups) {
     var remainingPeople = people%groups
-    
     return remainingPeople
 }
 
