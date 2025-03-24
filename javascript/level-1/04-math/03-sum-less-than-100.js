@@ -2,8 +2,8 @@
     The function should return either true or false. */
 
 function lessThan100(a, b) {
-	var sum = a+b
-  return sum<100 ? true : false
+		var sum = a+b
+  	return sum<100 ? true : false
 }
 
 /** passed test cases
