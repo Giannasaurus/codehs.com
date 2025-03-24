@@ -10,6 +10,6 @@ function length(array) {
   * test case 2:
     > length([])
   * test case 3:
-    > (hidden case)
+    > (hidden)
   * test case 4:
-    > (hidden case) */
+    > (hidden) */
