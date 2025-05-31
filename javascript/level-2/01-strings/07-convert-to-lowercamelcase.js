@@ -7,7 +7,7 @@ function snakeToLowerCamelCase(value) {
         words.slice(1).map(word =>
             word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
         ).join('');
-    return caamelCased;
+    return camelCased;
 }
 
 /** console test
