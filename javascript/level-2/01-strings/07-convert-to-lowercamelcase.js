@@ -10,6 +10,21 @@ function snakeToLowerCamelCase(value) {
     return caamelCased;
 }
 
+/** console test
+function snakeToLowerCamelCase(value) {
+    const words = value.split('_');
+    console.log("Values split at \"_\" into array: " + words);
+    const camelCased = words[0].toLowerCase() + 
+        words.slice(1).map(word =>
+            word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+        ).join('');
+    console.log("Word at array index 0: " + words[0]);
+    console.log("Words from array index 1: " + words.slice(1));
+    return camelCased;
+}
+
+console.log(snakeToLowerCamelCase("hello_world_bye_self")); */
+
 /** passed test cases
   * snakeToLowerCamelCase('very_verbose_function')
   * snakeToLowerCamelCase('return_result')
