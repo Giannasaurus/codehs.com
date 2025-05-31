@@ -4,7 +4,7 @@
 function followerGoal(currentFollowers, newFollowers) {
     let totalFollowers = currentFollowers + newFollowers*2;
     
-   return totalFollowers;
+    return totalFollowers;
 } 
 
 /** passed test cases
