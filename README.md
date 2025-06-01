@@ -1,5 +1,5 @@
 # A Structured Archive
-Here's how the path looks like:
+This is how the path looks like:
 > language > level > section > exercise-title
 
 # Quick Links
@@ -8,3 +8,14 @@ Here's how the path looks like:
 [C++!](https://codehs.com/practice/cpp) | 
 [Python!](http://codehs.com/practice/python) | 
 [SQL!](https://codehs.com/practice/sql)
+
+# 📖 Table of Contents
+## JavaScript
+### Level 1
+01 [Basics](javascript/level-1/01-basics) <br/>
+02 [Functions](javascript/level-1/02-functions) <br/>
+03 [Strings](javascript/level-1/03-strings) <br/>
+04 [Math](javascript/level-1/04-math) <br/>
+05 [Arrays](javascript/level-1/05-arrays) <br/>
+### Level 2
+01 [Strings](javascript/level-2/01-strings) <br/>
