@@ -1,7 +1,3 @@
-# A Structured Archive
-This is how the path looks like:
-> language > level > section > exercise-title
-
 # Quick Links
 [JavaScript!](https://codehs.com/practice/javascript) | 
 [Java!](https://codehs.com/practice/java) | 
