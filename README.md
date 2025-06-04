@@ -6,7 +6,7 @@
 [SQL](https://codehs.com/practice/sql)
 
 # 📖 Table of Contents
-## JavaScript
+## [JavaScript](javascript)
 ### Level 1
 01 [Basics](javascript/level-1/01-basics) <br/>
 02 [Functions](javascript/level-1/02-functions) <br/>
