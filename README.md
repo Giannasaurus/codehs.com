@@ -5,8 +5,6 @@
 [Python!](http://codehs.com/practice/python) | 
 [SQL!](https://codehs.com/practice/sql)
 
----
-
 # 📖 Table of Contents
 ## JavaScript
 ### Level 1
