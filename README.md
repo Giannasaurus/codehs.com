@@ -13,5 +13,7 @@
 03 [Strings](javascript/level-1/03-strings) <br/>
 04 [Math](javascript/level-1/04-math) <br/>
 05 [Arrays](javascript/level-1/05-arrays) <br/>
+06 [Conditionals](javascript/level-1/06-conditionals) <br/>
+
 ### Level 2
 01 [Strings](javascript/level-2/01-strings) <br/>
