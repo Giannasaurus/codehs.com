@@ -30,7 +30,7 @@ function brewPotion(ingredient1, ingredient2) {
 
 /* using ternary operator
 function brewPotion(ingredient1, ingredient2) {
-	return ingredient1 === "frogspawn" && ingredient2 === "newteye" ? "Invisibility Potion" : ingredient1 === "mandrake" && ingredient2 === "phoenixfeather" : "Life Elixir" : "Mysterious Brew";
+	return ingredient1 === "frogspawn" && ingredient2 === "newteye" ? "Invisibility Potion" : ingredient1 === "mandrake" && ingredient2 === "phoenixfeather" ? "Life Elixir" : "Mysterious Brew";
 	}
 } */
 
