@@ -19,6 +19,12 @@ function countJumpsNeeded(distance) {
     return jumps;
 }
 
+/* alternate solution
+function countJumpsNeeded(distance) {
+    return Math.ceil(distance / 3);
+}
+*/
+
 /** 
  * passed test cases
  * countJumpsNeeded(10)
