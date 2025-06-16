@@ -15,6 +15,7 @@
 05 [Arrays](javascript/level-1/05-arrays) <br/>
 06 [Conditionals](javascript/level-1/06-conditionals) <br/>
 07 [Iteration](javascript/level-1/07-iteration) <br/>
+08 [Recursion](javascript/level-1/08-recursion) <br/>
 
 ### Level 2
 01 [Strings](javascript/level-2/01-strings) <br/>
